@@ -1,0 +1,25 @@
+Polished
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/medaka/shotgun_new.medaka1/assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/medaka/shotgun_fahad.medaka1/assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/racon/shotgun_new.racon3.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/racon/shotgun_new.racon3/assembly.fasta
+
+
+
+After assembly:
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/40-polishing/filtered_contigs.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/10-consensus/consensus.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/30-contigger/graph_final.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/30-contigger/contigs.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/00-assembly/draft_assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/20-repeat/graph_before_rr.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_new/20-repeat/repeat_graph_edges.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/40-polishing/filtered_contigs.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/10-consensus/consensus.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/30-contigger/graph_final.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/30-contigger/contigs.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/00-assembly/draft_assembly.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/20-repeat/graph_before_rr.fasta
+/lustre/groups/haicu/workspace/anastasiia.grekova/freshwater_data/processed/12052023/flye/shotgun_fahad/20-repeat/repeat_graph_edges.fasta
